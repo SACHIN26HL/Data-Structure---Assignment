@@ -1,6 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+/*1. Insert First\n2. Insert Last\n3.Insert After Node\n4.Print \n5.Delete all nodes bigger than given data from the list \n");
+   6.Delete all nodes between given numbers\n7.Delete all nodes less than given number from the list\n");
+	8.Delete all nodes other than between given numbers\n9.Delete node at given position\n");
+	10.Delete the node at given position from end.\n11.Count load in Linked list\n");
+	12.Delete all nodes from at given position to beginning from end.\n13.Delete the node from list based on data after given occurrence\n");
+	14. Delete all nodes at given position from end.
+	*/
+
 typedef struct node
 {
 	struct node *next;
